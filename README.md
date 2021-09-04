@@ -10,5 +10,5 @@ Simply send your friend your auto-generated unique ID to make the call.
 ### Deployment
 
 **Heroku**
-[![Deploy](https://hidden-mesa-12580.herokuapp.com/0616b201-671a-4c20-a252-d205c67481ab)
+![Deploy](https://hidden-mesa-12580.herokuapp.com/0616b201-671a-4c20-a252-d205c67481ab)
 
